@@ -2,7 +2,7 @@
 %global pypi_name sphinxcontrib-trio
 
 Name:           python-%{pypi_name}
-Version:        1.1.0
+Version:        1.1.2
 Release:        1
 Summary:        Make Sphinx better at documenting Python functions and methods
 Group:          Development/Python
