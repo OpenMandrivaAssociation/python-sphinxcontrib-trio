@@ -3,7 +3,7 @@
 
 Name:           python-%{pypi_name}
 Version:        1.1.2
-Release:        1
+Release:        2
 Summary:        Make Sphinx better at documenting Python functions and methods
 Group:          Development/Python
 License:        MIT or ASL 2.0
@@ -56,7 +56,7 @@ rm -rf html/.{doctrees,buildinfo}
 %license LICENSE.MIT LICENSE.APACHE2 LICENSE
 %doc README.rst
 %{python_sitelib}/sphinxcontrib_trio
-%{python_sitelib}/sphinxcontrib_trio-%{version}-py?.?.egg-info
+%{python_sitelib}/sphinxcontrib_trio-%{version}-py*.*.egg-info
 
 %files -n python-%{pypi_name}-doc
 %doc html
