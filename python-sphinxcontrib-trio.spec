@@ -3,7 +3,7 @@
 
 Name:           python-%{pypi_name}
 Version:        1.1.2
-Release:        2
+Release:        3
 Summary:        Make Sphinx better at documenting Python functions and methods
 Group:          Development/Python
 License:        MIT or ASL 2.0
