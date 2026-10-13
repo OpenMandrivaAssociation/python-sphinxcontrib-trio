@@ -3,7 +3,7 @@
 
 Name:		python-sphinxcontrib-trio
 Version:	1.2.0
-Release:	1
+Release:	2
 Summary:	Make Sphinx better at documenting Python functions and methods
 Group:		Development/Python
 License:	MIT OR Apache-2.0
